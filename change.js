@@ -1,1 +1,1 @@
-let appleBite = 19
+let appleBite = 10
